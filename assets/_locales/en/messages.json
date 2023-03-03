@@ -100,7 +100,7 @@
         "description": "General translation of manga for places like drop downs"
     },
     "Package_Description": {
-        "message": "Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.",
+        "message": "Integrates MyAnimeList/AniList/Kitsu/Simkl/Shikimori into various sites, with auto episode tracking.",
         "description": "Description MALSync"
     },
     "UI_Status": {
@@ -374,7 +374,7 @@
         "description": "Login"
     },
     "kitsuClass_authentication_Success": {
-        "message": "Token saved you can close this page now",
+        "message": "Token saved, you can close this page now.",
         "description": "Authentication success"
     },
     "kitsuClass_authentication_Wrong": {
@@ -618,6 +618,22 @@
     "overview_EndingTheme": {
         "message": "Ending Theme:",
         "description": "Ending Theme"
+    },
+    "list_sorting_unread": {
+        "message": "Unread",
+        "description": "Dropdown option to sort list by unread"
+    },
+    "list_sorting_alpha": {
+        "message": "Alphabetic",
+        "description": "Dropdown option to sort list alphabetic"
+    },
+    "list_sorting_history": {
+        "message": "Last updated",
+        "description": "Dropdown option to sort list by last updated"
+    },
+    "list_sorting_score": {
+        "message": "Score",
+        "description": "Dropdown option to sort list by score"
     },
     "search_Type": {
         "message": "Type:",
@@ -908,6 +924,22 @@
     "settings_theming_background_opacity": {
         "message": "Background Opacity",
         "description": "Option to set the transparency of the UI in front of the background image"
+    },
+    "settings_theming_theme_system": {
+        "message": "System",
+        "description": "Dropdown option to set the theme to the system (dark/light) theme"
+    },
+    "settings_theming_theme_light": {
+        "message": "Light",
+        "description": "Dropdown option to set the theme to the light theme"
+    },
+    "settings_theming_theme_dark": {
+        "message": "Dark",
+        "description": "Dropdown option to set the theme to the dark theme"
+    },
+    "settings_theming_theme_custom": {
+        "message": "Custom",
+        "description": "Dropdown option to set the theme to custom witch shows a color picker"
     },
     "settings_Shortcuts": {
         "message": "Shortcuts",
